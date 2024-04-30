@@ -1,0 +1,16 @@
+{
+  "name": "test-electron",
+  "productName": "Test-Electron",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "mesne",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "30.0.1"
+  }
+}
